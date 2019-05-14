@@ -1,7 +1,10 @@
-[{
-    'title': 'What is the difference between example 1 and example 2?',
-    'content': 'In example 2 a connection error occurs.'
-}, {
-    'title': 'Good pancakes for dummies.',
-    'content': 'This book is great. I learned how to cook in two days!'
-}]
+[
+  {
+    "title": "What is the difference between example 1 and example 2?",
+    "content": "In example 2 a connection error occurs."
+  },
+  {
+    "title": "Good pancakes for dummies.",
+    "content": "This book is great. I learned how to cook in two days!"
+  }
+]
